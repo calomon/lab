@@ -15,4 +15,8 @@ public class E {
     public void ab() {
         return;
     }
+
+    public String kk() {
+        return "No";
+    }
 }

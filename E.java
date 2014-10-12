@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private String b = "hello";
 
@@ -24,4 +24,23 @@ public class E {
         return new java.util.Random().nextInt();
     }
 
+    public Object pp() {
+        return this;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

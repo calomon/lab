@@ -43,4 +43,8 @@ public class E extends null {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }

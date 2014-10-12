@@ -11,4 +11,8 @@ public class E {
     public double ad() {
         return 11.09;
     }
+
+    public void ab() {
+        return;
+    }
 }

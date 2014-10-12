@@ -19,4 +19,8 @@ public class E {
     public String kk() {
         return "No";
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
